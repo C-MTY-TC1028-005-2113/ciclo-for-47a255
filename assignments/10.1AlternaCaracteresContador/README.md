@@ -25,6 +25,8 @@ Observa que el primer caracter que se debe mostrar siempre es `#`
 ## Entrada
 
 Un valor entero positivo `n`
+solicitar el valor usando el siguiente mensaje : 
+"ingresa un numero"
 
 ## Salida
 Una secuencia de caracteres que muestra el número de renglón y luego un caracter inicia con `#` y alterna entre `#` y `%`. 
@@ -36,8 +38,9 @@ Ejemplo de ejecución del programa:
 Entrada:
 7
 
-Salida:
+Ejemplo de ejecución:
 ```
+ingresa un numero7
 1-#
 2-%
 3-#
