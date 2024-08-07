@@ -1,21 +1,13 @@
 ![Tec de Monterrey](images/logotecmty.png)
-# Ejercicios con estatutos de repetición
+# Ejercicios con estatuto de repetición for
 
-- 01 Cuenta Números
-- 02 Suma Números
-
-- 03 Suma Hasta N
-- 04 Lista de Precios
-
-- 05 Promedio Sencillo
-- 07 Cantidad Pares
-
-- 08 Rango Pares Simple
-- 10.1 Alterna Caracteres con Contador
-
-- 18 Factorial
-- 23 Pino de Navidad
-
-- 25 Triángulo Astériscos
-- 28 Secuencia Fibonacci
+- A01 Cuenta Números
+- A02 Suma Hasta N
+- A03 Promedio Sencillo
+- A04 Rango Pares Simple
+- A05 Alterna Caracteres con Contador
+- A06 Factorial
+- A07 Pino de Navidad
+- A08 Triángulo Astériscos
+- A09 Secuencia Fibonacci
 
